@@ -1,0 +1,3 @@
+为什么 nn.Embedding 要额外传入 pad_idx
+
+shape (src_len, b, e)
