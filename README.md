@@ -1,2 +1,2 @@
-# Stanford_CS224n_2021_Winter
-## Assignments implements
+Stanford_CS224n_2021_Winter
+Assignments implements
